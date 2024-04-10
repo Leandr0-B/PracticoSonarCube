@@ -1,7 +1,7 @@
 using System;
 // using System.ComponentModel.DataAnnotations;
 // using System.ComponentModel.DataAnnotations.Schema;
-// test
+// test 2
 namespace TechTalksModel.DTO
 {
     public class TechTalkDTO
